@@ -1,5 +1,7 @@
 # 想要忽略的文件
-1/
+
+1/2.txt
+
 *.md
 
 package-lock.json
